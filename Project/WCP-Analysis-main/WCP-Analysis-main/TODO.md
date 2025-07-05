@@ -1,0 +1,2 @@
+- update doxygen comments
+- atomics --> no race
